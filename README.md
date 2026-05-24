@@ -30,7 +30,7 @@ Format requirements:
 * Suitable for a university-level AI/ML course submission
 
 ## Output
-[GenAI LLM Report](GenAI_LLM_Report_v2.pdf)
+[GenAI_LLM_Report_v2.pdf](GenAI_LLM_Report_v2.pdf)
 
 ## Result
 Thus the experiment is completed sucessfully
